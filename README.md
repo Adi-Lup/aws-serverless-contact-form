@@ -71,7 +71,6 @@ Everything here stays inside the AWS free tier for the amount of testing I did. 
 ├── README.md
 ├── lambda_function.py
 ├── architecture-diagram.png
-├── architecture-diagram.drawio
 └── screenshots/
 ```
 
